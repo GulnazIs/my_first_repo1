@@ -8,4 +8,4 @@ Added next in local repo
 
 Added text in a new branch **newbranch**
 
-Solving a conflict
+Solving a conflict (text in web-browser)
